@@ -1,0 +1,23 @@
+===== SCHEDULER STARTED AT Tue 05/13/2025 10:41:03.76 ===== 
+2025-05-13 10:41:04 - Test scheduler berhasil dijalankan!
+🔑 API Key Loaded: 9e8c****9274
+🌐 Target URL: https://www.wasenderapi.com/api/send-message
+📡 Sending dummy ping...
+✅ Warm-up successful.
+ℹ️ Tidak ada data untuk H-3 (2025-05-10)
+ℹ️ Tidak ada data untuk H-1 (2025-05-12)
+ℹ️ Tidak ada data untuk H (2025-05-13)
+ℹ️ Tidak ada data untuk H+1 (2025-05-14)
+📆 Menangani H+3 - 2025-05-16 (1 data)
+📱 [Percobaan 1] Kirim ke: +6285321842503
+⏱️ Rate-limit. Tunggu 2 detik...
+📱 [Percobaan 2] Kirim ke: +6285321842503
+🔁 Gagal (403/405), retry dalam 5 detik...
+📱 [Percobaan 3] Kirim ke: +6285321842503
+🔁 Gagal (403/405), retry dalam 5 detik...
+📱 [Percobaan 4] Kirim ke: +6285321842503
+✅ Sukses ke: +6285321842503
+Response: {"success":true,"message":"Message sent successfully."}
+✅ Semua pesan telah dikirim.
+===== SCHEDULER COMPLETED AT Tue 05/13/2025 10:41:28.57 ===== 
+ 
